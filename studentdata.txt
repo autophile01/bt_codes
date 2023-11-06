@@ -1,3 +1,11 @@
+ASSIGNMENT -4 
+Write a program in solidity to create Student data. Use the following constructs:
+-Structures
+-Arrays
+-Fallback
+Deploy this as smart contract on Ethereum and Observe the transaction fee and Gas 
+values.
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
